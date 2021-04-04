@@ -1,2 +1,2 @@
-# quickactionwd
-Quickly edit documents on the cloud with your peers in a lightweight web applicaition. 
+# Quick Action web drive.
+Quickly edit documents on the cloud with your peers.
